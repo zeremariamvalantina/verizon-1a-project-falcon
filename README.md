@@ -59,6 +59,7 @@ Developed by a cross-university team as part of **Verizon AI Studio**:
   
 * How to install dependencies
   Make sure you have Python 3.8+
+  ``` bash
   pip install -r requirements.txt
 
 * How to set up the environment
