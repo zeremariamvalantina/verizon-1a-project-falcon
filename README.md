@@ -53,10 +53,23 @@ Developed by a cross-university team as part of **Verizon AI Studio**:
 **How to reproduce our results:**
 
 * How to clone the repository
+  ```bash
+   git clone https://github.com/JustinGaj/verizon-1a-project-falcon.git
+   cd verizon-1a-project-falcon
+  
 * How to install dependencies
+  Make sure you have Python 3.8+
+  pip install -r requirements.txt
+
 * How to set up the environment
-* How to access the dataset(s)
+  ``` bash
+  python -m venv venv
+  source venv/bin/activate  # macOS/Linux
+  venv\Scripts\activate   # Windows
 * How to run the notebook or scripts
+  jupyter notebook  14k_model_run.ipynb
+                    cell_tower_mini_model.ipynb
+                    speciescleaning.ipynb
 
 ---
 
