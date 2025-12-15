@@ -68,6 +68,7 @@ Developed by a cross-university team as part of **Verizon AI Studio**:
   source venv/bin/activate  # macOS/Linux
   venv\Scripts\activate   # Windows
 * How to run the notebook or scripts
+  ``` bash
   jupyter notebook  14k_model_run.ipynb
                     cell_tower_mini_model.ipynb
                     speciescleaning.ipynb
